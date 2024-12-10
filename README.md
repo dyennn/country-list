@@ -17,3 +17,6 @@
 ### What I learned:
   - You can find an item from the layout folder using "findViewById". (Note: You need to set an ID to the View in order to access them)
   - Adapters are responsible with displaying data. In my implementation, I used simple_list_item_1 for the display and countryList as the content of the view.
+
+### The application:
+![Country List App](country_list.png)
